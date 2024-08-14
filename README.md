@@ -9,6 +9,13 @@ This project is designed to create an interactive Olympics Report using Power BI
 - **Filtering & Drill-Down:** Utilize Power BI’s filtering and drill-down capabilities to explore data at multiple levels.
 - **Custom Reports:** Generate customized reports that can be shared or exported for further analysis.
 
+<p>
+   <img src="Screenshot (251).png">
+   
+   <img src="Screenshot (252).png">
+   
+   <img src="Screenshot (253).png">
+</p>
 
 ## Setup
 
